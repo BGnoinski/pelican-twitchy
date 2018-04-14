@@ -1,0 +1,8 @@
+.sidebar-nav > .sidebar-brand {
+    height: 35px;
+}
+
+.sidebar-nav > .author-title {
+    padding-left: 35px;
+    color: #999
+}
