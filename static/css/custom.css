@@ -1,8 +1,21 @@
 .sidebar-nav > .sidebar-brand {
-    height: 35px;
+    padding-top: 20px;
+    height: unset;
+    line-height: unset;
 }
 
 .sidebar-nav > .author-title {
     padding-left: 35px;
+    padding-bottom: 15px;
     color: #999
+}
+
+.sidebar-nav li {
+    line-height: unset;
+}
+
+.highlight pre span.n,
+.highlight pre span.p,
+.highlight pre span.s {
+    color: #d0d0d0;
 }
