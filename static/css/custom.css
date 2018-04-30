@@ -19,3 +19,7 @@
 .highlight pre span.s {
     color: #d0d0d0;
 }
+
+.img_border_small {
+    border: 1px solid;
+}
